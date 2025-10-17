@@ -1,2 +1,2 @@
 # soapdigi-landing
-Main framework + landing for SoapDigi Studio
+Main framework + landing for SoapDigi Studio 
